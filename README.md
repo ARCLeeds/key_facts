@@ -7,7 +7,7 @@
 
 ## Local High Performance Computing
 
-* We have over 14,000 cores with a total 50Tb RAM and 46 GPUs for use by University of Leeds researchers
+* We have over 14,000 processor cores with a total 50Tb RAM and 46 GPUs for use by University of Leeds researchers
 * There are just under 1,000 University of Leeds users (Approximately 1/3 of our resarch population)
 * We now have about 2-3 times the number of active users of the ARC service than we did 5 years ago. Since investment in both people and equipment has remained static, the amount of support and resource available per researcher has dropped.
 * We are probably heading for a contraction in the number of cores next year as quite of kit is getting old and we have insufficient investment to replace at a similar level.
