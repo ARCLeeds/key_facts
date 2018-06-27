@@ -20,6 +20,10 @@ decommissioned)
 
 ## Integrated Research Campus
 
-FOR TOM TO FILL IN
+* The IRC provides trained and authorised researchers with monitored access to datasets which they can manipulate and analyse. Using a safe haven that prevents unauthorised copying, with RSA 2-Factor secure ID authentication technology.
+* With 640 cores (600 useable) with 3.52TB RAM (2.64TB useable) and 1.79PB Storage (716TB useable) compute infrastructure. 
+* Citrix virtual research environment (VRE) with integrated research applications and tools including; Python, R, Stata and Microsoft SQL Server, plus many more. 
+* ISO 27001 certification 
+
 
 
